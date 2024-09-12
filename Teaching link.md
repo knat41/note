@@ -9,6 +9,9 @@ https://rdrr.io/
 https://bookdown.org/sz_psyc490/r4psychometics/
 
 http://elearning.fit.hcmup.edu.vn/~longld/
+# การวัดผล
+
+https://eledu.ssru.ac.th/wipawan_ea/pluginfile.php/68/course/section/150/%E0%B8%9A%E0%B8%97%E0%B8%97%E0%B8%B5%E0%B9%88%201.pdf
 
 # รวมบรรดาข้อสอบเก่า
 
