@@ -8,3 +8,4 @@ https://rdrr.io/
 
 https://bookdown.org/sz_psyc490/r4psychometics/
 
+http://elearning.fit.hcmup.edu.vn/~longld/
