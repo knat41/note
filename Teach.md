@@ -1,6 +1,6 @@
 [[Scouts]] 
 
-[Computational thinking](Computational thinking.md)
+[Computational thinking](Computational_thinking.md)
 
 [[Design and technology]]
 
