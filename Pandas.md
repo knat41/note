@@ -4,7 +4,6 @@ https://medium.com/data-cafe-thailand/pandas-part-ii-%E0%B8%81%E0%B8%B2%E0%B8%A3
 
 https://datarockie.com/blog/basic-python-pandas/
 
-https://www.sfu.ca/~mjbrydon/tutorials/BAinPy/01_intro.html
 
 https://dil.umbc.edu/courses/data-690-special-topics-statistical-analysis-and-visualization-with-python/
 
