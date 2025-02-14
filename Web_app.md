@@ -21,6 +21,12 @@ venv\Scripts\activate
 ```
 apt install python3.10-venv
 ```
+
+* เปิดใช้งาน Virtual Environment
+```
+source venv/bin/activate
+```
+
 https://tailwindui.com/components?ref=sidebar
 
 
