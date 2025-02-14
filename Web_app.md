@@ -26,7 +26,11 @@ apt install python3.10-venv
 ```
 source venv/bin/activate
 ```
+*วิธีเช็คเวอร์ชัน Flask 
+```
+python -c "import importlib.metadata; print(importlib.metadata.version('flask'))"
 
+```
 https://tailwindui.com/components?ref=sidebar
 
 
