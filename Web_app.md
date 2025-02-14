@@ -1,4 +1,4 @@
-# การพัฒนาระบบคำร้องขอเอกสาร โรงเรียนชลกันยานุกูล
+# การพัฒนาระบบคำร้องขอเอกสาร โรงเรียนชลกันยานุกูล (e-Academic Document)
 
 
 ## การติดตั้ง server
@@ -9,7 +9,7 @@ python --version
 * สร้าง Virtual Environment (แนะนำ)
 Virtual Environment ช่วยแยกโปรเจกต์ให้ใช้ไลบรารีแยกกัน
 ```
-mkdir my_flask_app && cd my_flask_app
+mkdir ecnacadoc_app && cd ecnacadoc_app
 ```
 * สร้าง Virtual Environment
 ```
