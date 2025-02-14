@@ -5,7 +5,7 @@
 ```linux
 do-release-upgrade --proposed
 ```  
-### add user
+### add user แบบมี home directory
 ```linux
 useradd -s /bin/bash -d /home/{user}/ -m -G sudo {user}
 ```  
