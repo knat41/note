@@ -17,7 +17,13 @@ sudo passwd -l root
 ```linux
 sudo passwd
 ```
-
+### Add a user
+``` 
+sudo adduser username
+```
+### Link
+* https://ubuntu.com/server/docs/user-management
+* 
 # เมื่อกระทำผ่าน ssh
 * https://krystal.io/blog/post/upgrading-ubuntu-20-04-to-22-04-lts-using-the-command-line
 
