@@ -8,7 +8,16 @@ do-release-upgrade --proposed
 ### add user แบบมี home directory
 ```linux
 useradd -s /bin/bash -d /home/{user}/ -m -G sudo {user}
+```
+### Disabling the root account password
+```linux
+sudo passwd -l root
 ```  
+### Enabling the root account
+```linux
+sudo passwd
+```
+
 # เมื่อกระทำผ่าน ssh
 * https://krystal.io/blog/post/upgrading-ubuntu-20-04-to-22-04-lts-using-the-command-line
 
