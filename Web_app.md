@@ -18,7 +18,8 @@ venv\Scripts\activate
 
 ```
 อาจต้องใช้
-``` apt install python3.10-venv
+```
+apt install python3.10-venv
 ```
 https://tailwindui.com/components?ref=sidebar
 
