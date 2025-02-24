@@ -47,3 +47,5 @@ subprocess.call(["ls","-l"])
 
 # ข้อมูลเล็กน้อย
 * https://www.datacamp.com/tutorial/python-subprocess
+## CN Network monitor
+[netmonitor](Network.md)
