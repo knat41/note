@@ -1,7 +1,7 @@
 # บันทึกสำหรับการพัฒนาแนวทางการใช้ Python สำหรับบริหารจัดการ Linux
 
-# Example headings
-
+# Linux และการใช้งาน
+[คำสั่งเบื้องต้น](Linux.md)
 ## Sample Section
 
 ## This'll be a _Helpful_ Section About the Greek Letter Θ!
