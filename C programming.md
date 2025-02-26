@@ -1,7 +1,6 @@
-
-
-
-http://www.cburch.com/cso/
+# รวมที่คิดว่าจะเกี่ยวข้องกันของภาษาซี
+### Computing Systems Organization
+* http://www.cburch.com/cso/
 
 https://www.alphacodingskills.com/c/c-format-specifiers.php
 
