@@ -1,4 +1,4 @@
-[C programming]("C programming.md")
+[C programming](Programming%20solve.md)
 [[Programming solve]]
 [[Python programming]]
 
