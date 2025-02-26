@@ -2,6 +2,9 @@
 ### Computing Systems Organization
 * http://www.cburch.com/cso/
 
+### Code Conventions
+* https://users.ece.cmu.edu/~eno/coding/CCodingStandard.html
+* https://www.doc.ic.ac.uk/lab/cplus/cstyle.html
 https://www.alphacodingskills.com/c/c-format-specifiers.php
 
 
