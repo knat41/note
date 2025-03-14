@@ -22,3 +22,10 @@ Webhook :
 Chatbot Setting
 - Knowledge : ต้องเทรนก่อนการใช้งาน 
 Google sheet - ID/URL status ที่ต้องการ Ready
+
+### การสร้าง rich menu
+* https://abdul.in.th/tools/#
+ใส่ 3 อย่าง
+- Token: <- Channel access token LINE Messaging API settings
+- JSON Description: <- json ที่ copy จาก line bot designer
+- รูปภาพที่ edit
