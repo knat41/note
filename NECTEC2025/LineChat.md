@@ -29,3 +29,6 @@ Google sheet - ID/URL status ที่ต้องการ Ready
 - Token: <- Channel access token LINE Messaging API settings
 - JSON Description: <- json ที่ copy จาก line bot designer
 - รูปภาพที่ edit
+### เอกสารเพิ่มเติม
+* https://conan.chat/documentation/abdul-lite-handbook.pdf
+* 
