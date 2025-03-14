@@ -1,5 +1,9 @@
 # 
-
+## ที่ต้องมีก่อน
+* Line Developers
+* Line Official Account Manager
+* ABDUL
+* AI for thai account
 ## Channel access token
 ```
 Messaging API settings   aiforthai.in.th
@@ -15,4 +19,6 @@ Messaging API
 Webhook :
 ```
 ### Chatbot Setting จาก ai thai
-
+Chatbot Setting
+- Knowledge : ต้องเทรนก่อนการใช้งาน 
+Google sheet - ID/URL status ที่ต้องการ Ready
