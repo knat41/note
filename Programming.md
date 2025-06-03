@@ -50,6 +50,12 @@ class TitleTrigger(WordTrigger):
 ## 5. หลีกเลี่ยงการแก้ไข collection ขณะวนลูป
 
 * การเพิ่มหรือลบจาก list ขณะวนลูป อาจทำให้ข้ามบางค่าหรือวนลูปไม่จบ
+* ```python
+  elems = ['a', 'b', 'c']
+  for e in elems:
+      print e
+  elems.remove(e)
+```
 * แนวทางที่ดีกว่า:
 
   * วนลูปผ่านสำเนา: `for item in list_copy`
